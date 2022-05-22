@@ -1,0 +1,6 @@
+C:\Users\julio\source\repos\TWICE\ClassNodoLista\bin\Debug\ClassNodoLista.dll
+C:\Users\julio\source\repos\TWICE\ClassNodoLista\bin\Debug\ClassNodoLista.pdb
+C:\Users\julio\source\repos\TWICE\ClassNodoLista\obj\Debug\ClassNodoLista.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\TWICE\ClassNodoLista\obj\Debug\ClassNodoLista.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\TWICE\ClassNodoLista\obj\Debug\ClassNodoLista.dll
+C:\Users\julio\source\repos\TWICE\ClassNodoLista\obj\Debug\ClassNodoLista.pdb
